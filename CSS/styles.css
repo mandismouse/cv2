@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  color: #C990D1;
+
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #B76EBF;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #79DDDD;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  color: #79DDDD;
+  margin-bottom: 0;
+}
+
+.top-container {
+background-color: #e4f9ff;
+position: relative;
+padding-top: 100px;
+}
+
+p {
+  margin-top: 0;
+}
+
+.cloud-top {
+  height: 80px;
+  width: 175px;
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  height: 80px;
+  width: 175px;
+  position: absolute;
+  left: 400px;
+  top: 200px;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+.profile-img {
+  height: 275px;
+  width: 250px;
+}
+
+.bio {
+  width: 50%;
+  margin: auto;
+}
+
+.photography-img {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
+
+.cooking-img {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+}
+.skill-row {
+  width:50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
